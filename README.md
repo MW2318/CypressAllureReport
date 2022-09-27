@@ -1,0 +1,2 @@
+# CypressAllureReport
+SEB CypressAllureReport
